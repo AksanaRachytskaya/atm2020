@@ -1,0 +1,4 @@
+Hair Dryer;Bathroom;7;1500;0.2;
+Coffee Maker;Kitchen;7;1200;0.5;
+Smart House;Common room;7;800;0.3;
+

@@ -1,0 +1,6 @@
+Fridge; Kitchen; 7; 2500; 24.0
+Washer; Bathroom; 2; 60; 1.0
+Iron; Bathroom; 2; 260; 1.5
+Hair Dryer; Bathroom; 7; 1500; 0.2
+Coffee Maker; Kitchen; 7; 1200; 0.5
+Smart House; Common room; 7; 800; 0.3

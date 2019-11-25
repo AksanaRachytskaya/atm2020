@@ -1,0 +1,27 @@
+[
+	{
+		"@class": "model.Gadget",
+		"name":"Hair dryer",
+		"zone":"Bathroom",
+		"usesAweek":7,
+		"power":2200,
+		"workingTime":0.3
+	},
+	{
+		"@class": "model.Gadget",
+		"name":"Blender",
+		"zone":"Kitchen",
+		"usesAweek":1,
+		"power":1000,
+		"workingTime":0.05
+	},
+	{
+		"@class": "model.Gadget",
+		"name":"Kettle",
+		"zone":"Kitchen",
+		"usesAweek":14,
+		"power":1500,
+		"workingTime":0.03
+	}
+
+]
